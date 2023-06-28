@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.1.1",
+    "cookiecutter_context": {
+      "project_name": "Shy Fire",
+      "project_slug": "shy_fire_dev_95512",
+      "project_dash_slug": "shy-fire-dev-95512",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "TST-rmilszpmqa@aol.com",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
